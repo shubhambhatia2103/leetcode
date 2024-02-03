@@ -36,7 +36,7 @@ Explore the folders based on the problem and find the solution to the specific p
 
 ## Feedback
 
-If you have any feedback, please reach out to us at Shubhambhatia2103@gmail.com
+If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
 
 ## License
