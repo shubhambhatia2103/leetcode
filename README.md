@@ -31,7 +31,7 @@ Explore the folders based on the problem and find the solution to the specific p
 
 ## Authors
 
-- [@shubhambhatia2103](https://github.com/shubhambhatia2103)
+- [@shubhambhatia2103](https://www.linkedin.com/in/shubhambhatia2103/)
 
 
 ## Feedback
