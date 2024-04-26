@@ -1,7 +1,7 @@
 
-# LeetCode Solutions in C++
+# LeetCode Solutions in C++/Python3
 
-Welcome to the [Leetcode](https://leetcode.com/) Solutions repository, where you can find comprehensive solutions to various LeetCode problems implemented in C++. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your problem-solving skills.
+Welcome to the [Leetcode](https://leetcode.com/) Solutions repository, where you can find comprehensive solutions to various LeetCode problems implemented in C++/Python3. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your problem-solving skills.
 
 
 
@@ -17,7 +17,7 @@ Special thanks to the [Leetcode](https://leetcode.com/) community for fostering 
 
 ## Features
 
-- Organized and well-documented C++ solutions.
+- Organized and well-documented C++/Python3 solutions.
 - Detailed Performance Metrics indicating the time and space complexity, providing insights into the performance of the implemented algorithm.
 - Easy-to-understand code with detailed question overview.
 
