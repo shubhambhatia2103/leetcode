@@ -48,3 +48,11 @@ If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
 This repository is licensed under the MIT License - see the [LICENSE](https://github.com/shubhambhatia2103/leetcode/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shubhambhatia2103/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
