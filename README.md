@@ -55,6 +55,7 @@ This repository is licensed under the MIT License - see the [LICENSE](https://gi
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/shubhambhatia2103/leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/shubhambhatia2103/leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/shubhambhatia2103/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/shubhambhatia2103/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shubhambhatia2103/leetcode/tree/master/0595-big-countries) |
