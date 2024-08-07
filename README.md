@@ -76,4 +76,8 @@ This repository is licensed under the MIT License - see the [LICENSE](https://gi
 | [1801-average-time-of-process-per-machine](https://github.com/shubhambhatia2103/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/shubhambhatia2103/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shubhambhatia2103/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [2350-find-closest-number-to-zero](https://github.com/shubhambhatia2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
